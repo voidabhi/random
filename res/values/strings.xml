@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TheZineDrop</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Issue I</string>
+    <string name="title_section2">Issue II</string>
+    <string name="title_section3">Issue III</string>
+    <string name="title_section4">Issue IV</string>
+
+</resources>
