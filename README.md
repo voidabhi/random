@@ -1,4 +1,4 @@
 Random
 ======
 
-random repo for junks!
+random repo for junk code!
